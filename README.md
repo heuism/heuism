@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/hientran"><img src="https://api.daily.dev/devcards/59c4ef4e541940ee9615b5b22e3b8b34.png?r=myf" width="400" alt="Hien Tran's Dev Card"/></a>
+<a href="https://app.daily.dev/hientran"><img src="https://github.com/heuism/heuism/blob/main/devcard.svg" width="400" alt="Hien Tran's Dev Card"/></a>
 
 <!--
 **heuism/heuism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
